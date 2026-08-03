@@ -1,1 +1,1 @@
-Print("Testing the github")
+print("Github test successful")
